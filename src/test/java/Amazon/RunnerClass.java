@@ -3,9 +3,6 @@ package Amazon;
 
 import org.testng.annotations.Test;
 
-import AmazonPomClass.HomePage;
-import AmazonPomClass.WatchPage;
-
 public class RunnerClass extends BaseClass {
 	@Test
 	public void TS_01() {
